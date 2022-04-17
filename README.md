@@ -1,6 +1,6 @@
 # **Jammming**
 
-Jammming is an app that allows users to search the Spotify library, create a custom playlist, and then save the playlist to their Spotify accounts. (Requires having a Spotify account for playlists to be saved.)
+Jammming is an app that allows users to save music playlists to Spotify (Requires having a Spotify account for playlists to be saved.)
 This training project is prepared by [Codecademy](https://www.codecademy.com).
 
 ## Table of Contents
