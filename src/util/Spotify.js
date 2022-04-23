@@ -1,5 +1,5 @@
-const clientId = 'ec7dda9ab542468a903679151f0b3a13'; 
-const redirectUri = 'http://jannis_jam.surge.sh/'; //"http://localhost:3000/"
+const clientId = yourClientId;
+const redirectUri = "http://localhost:3000/";
 
 let accessToken;
 
